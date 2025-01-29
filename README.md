@@ -1,6 +1,6 @@
 # Simple Chat Translation App
 
-Simple Chat Translation App is a **React (TypeScript) & Go-based application** that translates messages between users using **LLM models** via the **Ollama API**. The frontend simulates **two chat windows**, where each user can select their preferred language, and every message sent is automatically **translated into the receiver's language**.
+Simple Chat Translation App is a Proof of Concept (PoC) application built with **React (TypeScript) & Go** that translates messages between users using **LLM models** via the Ollama API, which runs locally on your machine. The frontend simulates two chat windows, where each user can select their preferred language, and every message sent is automatically translated into the receiver’s language in real-time.
 
 ![](app_pic.png)
 
